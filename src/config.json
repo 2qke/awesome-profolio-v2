@@ -1,0 +1,63 @@
+{
+    "discord_id" : "694349924388569170",
+    "spotify" : {
+        "artist" : false
+    },
+    "inset": [
+        {
+            "title": "WaweCSS — www.wawecss.com (My framework :p)",
+            "image": "wawecss.png"
+        },
+        {
+            "title": "TailwindCSS",
+            "image": "tailwindcss.png"
+        },
+        {
+            "title": "Bootstrap",
+            "image": "bootstrap.png"
+        },
+        {
+            "title": "React & React Native",
+            "image": "react.png"
+        },
+        {
+            "title": "JavaScript",
+            "image": "javascript.png"
+        },
+        {
+            "title": "Photoshop",
+            "image": "photoshop.png"
+        },
+        {
+            "title": "Unreal Engine 4",
+            "image": "unrealengine.png"
+        },
+        {
+            "title": "Blender",
+            "image": "blender.png"
+        },
+        {
+            "title": "Android Studio",
+            "image": "androidstudio.png"
+        }
+    ],
+    "social_links" : [
+        {
+            "image" : "github_logo.png",
+            "href" : "github.com/2qke",
+            "linkType" : "GitHub"
+        },
+        {
+            "image" : "instagram_logo.png",
+            "href" : "instagram.com/ebuword",
+            "linkType" : "Instagram"
+        }
+    ],
+    "display_text" : [
+        "I am an amateur frontend developer.",
+        "My areas of interest are listed below. Although I don't know all of them professionally, I have a little knowledge of some of them. Others are what I want to learn."
+    ],
+    "artist_id" : "31p2hrvhdadvzho4pm7kuajl54hi",
+    "lanyard_discord_url" : "api.lanyard.rest/v1/users/694349924388569170"
+    
+}

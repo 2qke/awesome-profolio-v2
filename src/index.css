@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+@layer components{
+  html, body, #root{
+    @apply w-full h-full
+  }
+
+
+  .text {
+    @apply font-montserrat text-sm lg:text-2xl text-white select-none
+  }
+
+  .titleText {
+    @apply font-montserrat text-2xl lg:text-2xl text-white select-none
+  }
+}
+
+.inset img {
+  width: 44px;
+  transition: all 0.3s;
+}
+
+.inset img:hover {
+  opacity: 80%;
+  transition: all 0.3s;
+  cursor: pointer;
+}
